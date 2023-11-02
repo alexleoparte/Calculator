@@ -1,0 +1,41 @@
+
+.calculator{
+    background-color: #cebaa8;
+    border-radius: 10px;
+    width: 455px;
+    padding: 11px;
+    text-align: center;
+    height: 341px;
+}
+
+body{
+    padding: 0%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: palevioletred;
+    display: flex;
+    background-image: url('xis.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+input{
+    width: 78px;
+    height: 45px;
+    font-size: 35px;
+    border-radius: 9px;
+    margin: 7px;
+    background-color: #b38b6d;
+    color: black;  
+    border-style: none;
+    
+}
+.btn:hover{
+    background-color: #7b3f00;
+    cursor: pointer;
+
+
+}
